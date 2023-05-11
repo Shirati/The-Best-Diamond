@@ -1,0 +1,97 @@
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csprojAssemblyReference.cache
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AccWizObjects.dll
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AcrobatAccessLib.dll
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.MDACVer.dll
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.NetworkPolicy.dll
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.ResolveComReference.cache
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmRama.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmWorker.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Properties.Resources.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.GenerateResource.cache
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.CoreCompileInputs.cache
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiamondFoler.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmSaleryM.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.frmKindE.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\Data\BestDiamond.mdb
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe.config
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.pdb
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.exe
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.pdb
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Form1.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiary.resources
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrnDiamondWork.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.MDACVer.dll
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.NetworkPolicy.dll
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.exe
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.pdb
+F:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmBuy.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\Data\BestDiamond.mdb
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe.config
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.pdb
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csprojAssemblyReference.cache
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AccWizObjects.dll
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AcrobatAccessLib.dll
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.MDACVer.dll
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.NetworkPolicy.dll
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.ResolveComReference.cache
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Form1.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmBuy.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiamondFoler.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiary.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmRama.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmSaleryM.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmWorker.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmKindE.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrnDiamondWork.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Properties.Resources.resources
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.GenerateResource.cache
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.CoreCompileInputs.cache
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.exe
+F:\מחשבים\כיתה יב\ניתוח הארגון\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.pdb
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csprojAssemblyReference.cache
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AccWizObjects.dll
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AcrobatAccessLib.dll
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.MDACVer.dll
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.NetworkPolicy.dll
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.ResolveComReference.cache
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Form1.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmBuy.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiamondFoler.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiary.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmRama.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmSaleryM.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmWorker.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmKindE.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrnDiamondWork.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Properties.Resources.resources
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.GenerateResource.cache
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.CoreCompileInputs.cache
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.exe
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.pdb
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\Data\BestDiamond.mdb
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe.config
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe
+D:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.pdb
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\Data\BestDiamond.mdb
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe.config
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.exe
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\bin\Debug\BestDiamond.pdb
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.AssemblyReference.cache
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AcrobatAccessLib.dll
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.ResolveComReference.cache
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Form1.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmBuy.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiamondFoler.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmDiary.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmRama.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmSaleryM.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmWorker.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrmKindE.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Gui.FrnDiamondWork.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.Properties.Resources.resources
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.GenerateResource.cache
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csproj.CoreCompileInputs.cache
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\BestDiamond.csprojAssemblyReference.cache
+E:\מחשבים\כיתה יב\פיתוח הארגון\יהלומים\BestDiamond\BestDiamond\obj\Debug\Interop.AccWizObjects.dll
